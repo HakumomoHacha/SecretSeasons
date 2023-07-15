@@ -1,6 +1,5 @@
 package cn.secretinstitute.secretseasons.Datagen;
 
-import cn.secretinstitute.secretseasons.Items.ModItems;
 import cn.secretinstitute.secretseasons.Utils;
 import net.minecraft.data.DataGenerator;
 import net.minecraftforge.client.model.generators.ItemModelProvider;
