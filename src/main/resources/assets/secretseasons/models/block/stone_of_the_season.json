@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "secretseasons:block/stone_of_the_season"
+  }
+}
