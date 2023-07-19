@@ -4,7 +4,6 @@ import cn.secretinstitute.secretseasons.Blocks.ModBlocks;
 import cn.secretinstitute.secretseasons.CreativeModeTab.MainTab;
 import cn.secretinstitute.secretseasons.Items.ModItems;
 import com.mojang.logging.LogUtils;
-import net.minecraft.client.Minecraft;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
@@ -30,7 +29,7 @@ public class SecretSeasons {
         modEventBus.addListener(this::commonSetup);
 
         // Register the Deferred Register to the mod event bus so blocks get registered
-       ModBlocks.BLOCKS.register(modEventBus);
+        ModBlocks.BLOCKS.register(modEventBus);
         // Register the Deferred Register to the mod event bus so items get registered
         ModItems.ITEMS.register(modEventBus);
         // Register the Deferred Register to the mod event bus so tabs get registered
@@ -59,9 +58,7 @@ public class SecretSeasons {
         @SubscribeEvent
         public static void onClientSetup(FMLClientSetupEvent event)
         {
-            // Some client setup code
-            LOGGER.info("HELLO FROM CLIENT SETUP");
-            LOGGER.info("MINECRAFT NAME >> {}", Minecraft.getInstance().getUser().getName());
+
         }
     }
 }
