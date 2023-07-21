@@ -14,6 +14,8 @@ public class ModBlockStateProvider extends BlockStateProvider {
 
     @Override
     protected void registerStatesAndModels() {
-        simpleBlock(ModBlocks.STONE_OF_THE_SEASON.get());
+        simpleBlock(ModBlocks.SUMMER_ROCK.get());
+        simpleBlock(ModBlocks. SOLID_CLOUD_BLOCK.get());
+        simpleBlock(ModBlocks.DIRT_OF_THE_SEASON.get());
     }
 }
