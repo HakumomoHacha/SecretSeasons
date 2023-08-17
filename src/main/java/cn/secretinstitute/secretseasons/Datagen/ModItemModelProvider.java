@@ -12,6 +12,6 @@ public class ModItemModelProvider extends ItemModelProvider {
 
     @Override
     protected void registerModels() {
-        withExistingParent("stone_of_the_season", modLoc("block/stone_of_the_season"));
+
     }
 }

@@ -17,7 +17,10 @@ public class MainTab {
             .title(Component.translatable("itemGroup.secretseasons2"))
             .icon(() -> ModItems.STONE_OF_THE_SEASON.get().getDefaultInstance())
             .displayItems((parameters, output) -> {
-                output.accept(ModItems.STONE_OF_THE_SEASON.get()); // Add the example item to the tab. For your own tabs, this method is preferred over the event
+                output.accept(ModItems.STONE_OF_THE_SEASON.get());// Add the example item to the tab. For your own tabs, this method is preferred over the event
+                output.accept(ModItems.SUMMER_ROCK.get());
+                output.accept(ModItems.CLOUD_BLOCK.get());
+                output.accept(ModItems.DIRT_OF_THE_SEASON.get());
             }).build());
 
 }

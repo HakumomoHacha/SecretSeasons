@@ -3,6 +3,7 @@ package cn.secretinstitute.secretseasons.Datagen;
 import cn.secretinstitute.secretseasons.Blocks.ModBlocks;
 import cn.secretinstitute.secretseasons.Utils;
 import net.minecraft.data.DataGenerator;
+import net.minecraft.world.level.block.RotatedPillarBlock;
 import net.minecraftforge.client.model.generators.BlockStateProvider;
 import net.minecraftforge.common.data.ExistingFileHelper;
 
@@ -14,8 +15,7 @@ public class ModBlockStateProvider extends BlockStateProvider {
 
     @Override
     protected void registerStatesAndModels() {
-        simpleBlock(ModBlocks.SUMMER_ROCK.get());
-        simpleBlock(ModBlocks. SOLID_CLOUD_BLOCK.get());
-        simpleBlock(ModBlocks.DIRT_OF_THE_SEASON.get());
+
+
     }
 }

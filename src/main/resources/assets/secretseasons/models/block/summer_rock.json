@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "secretseasons:block/summer_rock",
+    "particle": "secretseasons:block/summer_rock"
+  }
+}
