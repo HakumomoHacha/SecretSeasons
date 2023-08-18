@@ -13,4 +13,5 @@ public class ModBlocks {
     public static final RegistryObject<Block> SUMMER_ROCK = BLOCKS.register("summer_rock",SummerRock::new);
     public static final RegistryObject<Block> DIRT_OF_THE_SEASON = BLOCKS.register("dirt_of_the_season",DirtOfTheSeason::new);
     public static final RegistryObject<Block> CLOUD_BLOCK = BLOCKS.register("cloud_block",CloudBlock::new);
+    public static final RegistryObject<Block> LOVE_ORE = BLOCKS.register("love_ore",LoveOre::new);
 }
