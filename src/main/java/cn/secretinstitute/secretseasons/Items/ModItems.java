@@ -13,11 +13,11 @@ public class ModItems {
 
     //item
     public static final RegistryObject<Item> LOVE_CRYSTALS = ITEMS.register("love_crystals", LoveCrystals::new);
-    public static final RegistryObject<Item> CLOUDSHARDS = ITEMS.register("cloud_shards", CloudShards::new);
+    public static final RegistryObject<Item> CLOUD_SHARDS = ITEMS.register("cloud_shards", CloudShards::new);
     public static final RegistryObject<Item> HONEYS = ITEMS.register("honeys", Honeys::new);
-    public static final RegistryObject<Item> LOVESACHET = ITEMS.register("love_sachet", LoveSachet::new);
-    public static final RegistryObject<Item> UNDEADEYES = ITEMS.register("undead_eyes", UndeadEyes::new);
-    public static final RegistryObject<Item> GOPHEREETH = ITEMS.register("Gopher_teeth", GopherTeeth::new);
+    public static final RegistryObject<Item> LOVE_SACHET = ITEMS.register("love_sachet", LoveSachet::new);
+    public static final RegistryObject<Item> UNDEAD_EYES = ITEMS.register("undead_eyes", UndeadEyes::new);
+    public static final RegistryObject<Item> GOPHER_TEETH = ITEMS.register("gopher_teeth", GopherTeeth::new);
 
 
     //blockItem

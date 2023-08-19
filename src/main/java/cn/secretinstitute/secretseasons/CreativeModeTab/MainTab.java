@@ -24,11 +24,11 @@ public class MainTab {
                 output.accept(ModItems.LOVE_ORE.get());
 
                 output.accept(ModItems.LOVE_CRYSTALS.get());
-                output.accept(ModItems.LOVESACHET.get());
+                output.accept(ModItems.LOVE_SACHET.get());
                 output.accept(ModItems.HONEYS.get());
-                output.accept(ModItems.CLOUDSHARDS.get());
-                output.accept(ModItems.GOPHEREETH.get());
-                output.accept(ModItems.UNDEADEYES.get());
+                output.accept(ModItems.CLOUD_SHARDS.get());
+                output.accept(ModItems.GOPHER_TEETH.get());
+                output.accept(ModItems.UNDEAD_EYES.get());
 
             }).build());
 
