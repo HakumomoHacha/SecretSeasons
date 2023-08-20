@@ -4,6 +4,7 @@
   "block.secretseasons.cloud_block": "Cloud Block",
   "block.secretseasons.dirt_of_the_season": "Dirt of the Season",
   "block.secretseasons.love_ore": "Love Ore",
+
   "item.secretseasons.cloud_shards": "Cloud Shards",
   "item.secretseasons.undead_eyes": "Undead Eyes",
   "item.secretseasons.honeys": "Honeys",
@@ -15,5 +16,13 @@
   "item.secretseasons.autumn_elements": "Autumn Elements",
   "item.secretseasons.winter_elements": "Winter Elements",
   "item.secretseasons.autumn_windstone": "Autumn Windstone",
+  "item.secretseasons.rice": "Rice",
+  "item.secretseasons.grains_of_rice": "Grains of Rice",
+  "item.secretseasons.love_stone": "Love Stone",
+  "item.secretseasons.season_stone": "Season Stone",
+  "item.secretseasons.ice_crystals": "Ice Crystals",
+
+  "item.secretseasons.autumn_wind_pickaxe": "Autumn Wind Pickaxe",
+
   "itemGroup.secretseasons2": "SecretSeason2"
 }

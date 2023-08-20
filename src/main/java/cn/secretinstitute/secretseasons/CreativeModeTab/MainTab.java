@@ -38,6 +38,7 @@ public class MainTab {
                 output.accept(ModItems.RICE.get());
                 output.accept(ModItems.SEASON_STONE.get());
                 output.accept(ModItems.LOVE_STONE.get());
+                output.accept(ModItems.AUTUMN_WIND_PICKAXE.get());
 
 
 

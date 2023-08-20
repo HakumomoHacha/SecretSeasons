@@ -27,6 +27,12 @@ public class ModItems {
     public static final RegistryObject<Item> RICE = ITEMS.register("rice",Rice::new);
     public static final RegistryObject<Item> LOVE_STONE = ITEMS.register("love_stone",LoveStone::new);
     public static final RegistryObject<Item> SEASON_STONE = ITEMS.register("season_stone",SeasonStone::new);
+    public static final RegistryObject<Item> ICE_CRYSTALS = ITEMS.register("ice_crystals",IceCrystals::new);
+
+
+    //tools
+    public static final RegistryObject<Item> AUTUMN_WIND_PICKAXE = ITEMS.register("autumn_wind_pickaxe",AutumnWindPickaxe::new);
+
 
 
 
