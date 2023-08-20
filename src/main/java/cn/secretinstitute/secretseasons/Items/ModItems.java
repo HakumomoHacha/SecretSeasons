@@ -18,6 +18,12 @@ public class ModItems {
     public static final RegistryObject<Item> LOVE_SACHET = ITEMS.register("love_sachet", LoveSachet::new);
     public static final RegistryObject<Item> UNDEAD_EYES = ITEMS.register("undead_eyes", UndeadEyes::new);
     public static final RegistryObject<Item> GOPHER_TEETH = ITEMS.register("gopher_teeth", GopherTeeth::new);
+    public static final RegistryObject<Item> WINTER_ELEMENTS = ITEMS.register("winter_elements",WinterElements::new);
+    public static final RegistryObject<Item> SPRING_ELEMENTS = ITEMS.register("spring_elements",SpringElements::new);
+    public static final RegistryObject<Item> AUTUMN_ELEMENTS = ITEMS.register("autumn_elements",AutumnElements::new);
+    public static final RegistryObject<Item> SUMMER_ELEMENTS = ITEMS.register("summer_elements",SummerElements::new);
+    public static final RegistryObject<Item> AUTUMN_WINDSTONE = ITEMS.register("autumn_windstone",AutumnWindstone::new);
+
 
 
     //blockItem

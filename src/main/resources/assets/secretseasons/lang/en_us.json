@@ -5,5 +5,15 @@
   "block.secretseasons.dirt_of_the_season": "Dirt of the Season",
   "block.secretseasons.love_ore": "Love Ore",
   "item.secretseasons.cloud_shards": "Cloud Shards",
+  "item.secretseasons.undead_eyes": "Undead Eyes",
+  "item.secretseasons.honeys": "Honeys",
+  "item.secretseasons.gopher_teeth": "Gopher teeth",
+  "item.secretseasons.love_crystals": "Love Crystals",
+  "item.secretseasons.love_sachet": "Love Sachet",
+  "item.secretseasons.spring_elements": "Spring Elements",
+  "item.secretseasons.summer_elements": "Summer Elements",
+  "item.secretseasons.autumn_elements": "Autumn Elements",
+  "item.secretseasons.winter_elements": "Winter Elements",
+  "item.secretseasons.autumn_windstone": "Autumn Windstone",
   "itemGroup.secretseasons2": "SecretSeason2"
 }

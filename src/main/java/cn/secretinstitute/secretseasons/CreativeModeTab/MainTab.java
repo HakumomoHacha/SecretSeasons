@@ -29,6 +29,12 @@ public class MainTab {
                 output.accept(ModItems.CLOUD_SHARDS.get());
                 output.accept(ModItems.GOPHER_TEETH.get());
                 output.accept(ModItems.UNDEAD_EYES.get());
+                output.accept(ModItems.AUTUMN_ELEMENTS.get());
+                output.accept(ModItems.WINTER_ELEMENTS.get());
+                output.accept(ModItems.SPRING_ELEMENTS.get());
+                output.accept(ModItems.SUMMER_ELEMENTS.get());
+                output.accept(ModItems.AUTUMN_WINDSTONE.get());
+
 
             }).build());
 
