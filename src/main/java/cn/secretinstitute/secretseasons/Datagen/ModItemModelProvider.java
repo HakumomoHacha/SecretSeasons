@@ -1,10 +1,13 @@
 package cn.secretinstitute.secretseasons.Datagen;
 
+import cn.secretinstitute.secretseasons.Items.LoveStone;
 import cn.secretinstitute.secretseasons.Items.ModItems;
 import cn.secretinstitute.secretseasons.Utils;
+import net.minecraft.core.registries.Registries;
 import net.minecraft.data.DataGenerator;
 import net.minecraftforge.client.model.generators.ItemModelProvider;
 import net.minecraftforge.common.data.ExistingFileHelper;
+import net.minecraftforge.registries.ForgeRegistries;
 
 public class ModItemModelProvider extends ItemModelProvider {
     public ModItemModelProvider(DataGenerator generator, ExistingFileHelper existingFileHelper) {
@@ -13,6 +16,6 @@ public class ModItemModelProvider extends ItemModelProvider {
 
     @Override
     protected void registerModels() {
-
+        withExistingParent(ForgeRegistries.ITEMS.getKey(ModItems.LOVE_STONE.get()).getPath(),modLoc("item/love_stone"));
     }
 }

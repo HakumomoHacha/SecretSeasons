@@ -23,6 +23,10 @@ public class ModItems {
     public static final RegistryObject<Item> AUTUMN_ELEMENTS = ITEMS.register("autumn_elements",AutumnElements::new);
     public static final RegistryObject<Item> SUMMER_ELEMENTS = ITEMS.register("summer_elements",SummerElements::new);
     public static final RegistryObject<Item> AUTUMN_WINDSTONE = ITEMS.register("autumn_windstone",AutumnWindstone::new);
+    public static final RegistryObject<Item> GRAINS_OF_RICE = ITEMS.register("grains_of_rice",GrainsOfRice::new);
+    public static final RegistryObject<Item> RICE = ITEMS.register("rice",Rice::new);
+    public static final RegistryObject<Item> LOVE_STONE = ITEMS.register("love_stone",LoveStone::new);
+    public static final RegistryObject<Item> SEASON_STONE = ITEMS.register("season_stone",SeasonStone::new);
 
 
 

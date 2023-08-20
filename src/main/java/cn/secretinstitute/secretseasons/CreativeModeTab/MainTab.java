@@ -34,6 +34,11 @@ public class MainTab {
                 output.accept(ModItems.SPRING_ELEMENTS.get());
                 output.accept(ModItems.SUMMER_ELEMENTS.get());
                 output.accept(ModItems.AUTUMN_WINDSTONE.get());
+                output.accept(ModItems.GRAINS_OF_RICE.get());
+                output.accept(ModItems.RICE.get());
+                output.accept(ModItems.SEASON_STONE.get());
+                output.accept(ModItems.LOVE_STONE.get());
+
 
 
             }).build());
