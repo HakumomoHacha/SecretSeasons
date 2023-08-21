@@ -1,6 +1,6 @@
 package cn.secretinstitute.secretseasons.Items;
 
-import cn.secretinstitute.secretseasons.Blocks.ModBlocks;
+import cn.secretinstitute.secretseasons.blocks.ModBlocks;
 import cn.secretinstitute.secretseasons.Utils;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;

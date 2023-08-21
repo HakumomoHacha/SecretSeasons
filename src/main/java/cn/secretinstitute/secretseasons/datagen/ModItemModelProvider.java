@@ -1,9 +1,7 @@
-package cn.secretinstitute.secretseasons.Datagen;
+package cn.secretinstitute.secretseasons.datagen;
 
-import cn.secretinstitute.secretseasons.Items.LoveStone;
 import cn.secretinstitute.secretseasons.Items.ModItems;
 import cn.secretinstitute.secretseasons.Utils;
-import net.minecraft.core.registries.Registries;
 import net.minecraft.data.DataGenerator;
 import net.minecraftforge.client.model.generators.ItemModelProvider;
 import net.minecraftforge.common.data.ExistingFileHelper;

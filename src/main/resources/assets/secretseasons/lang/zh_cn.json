@@ -4,6 +4,7 @@
   "block.secretseasons.cloud_block": "云块",
   "block.secretseasons.dirt_of_the_season": "季泥",
   "block.secretseasons.love_ore": "心之矿",
+
   "item.secretseasons.cloud_shards": "云碎片",
   "item.secretseasons.undead_eyes": "不死眼",
   "item.secretseasons.honeys": "蜂蜜",
@@ -15,5 +16,13 @@
   "item.secretseasons.autumn_elements": "秋之元素",
   "item.secretseasons.winter_elements": "冬之元素",
   "item.secretseasons.autumn_windstone": "秋风石",
+  "item.secretseasons.rice": "米饭",
+  "item.secretseasons.grains_of_rice": "米粒",
+  "item.secretseasons.love_stone": "爱之石",
+  "item.secretseasons.season_stone": "季节石",
+  "item.secretseasons.ice_crystals": "冰晶体",
+
+  "item.secretseasons.autumn_wind_pickaxe": "秋风镐",
+
   "itemGroup.secretseasons2": "四季秘境2"
 }

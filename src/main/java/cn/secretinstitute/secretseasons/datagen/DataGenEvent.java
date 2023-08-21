@@ -1,4 +1,4 @@
-package cn.secretinstitute.secretseasons.Datagen;
+package cn.secretinstitute.secretseasons.datagen;
 
 import cn.secretinstitute.secretseasons.Utils;
 import net.minecraftforge.data.event.GatherDataEvent;

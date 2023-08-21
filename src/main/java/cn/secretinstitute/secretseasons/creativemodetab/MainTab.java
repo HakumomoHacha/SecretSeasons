@@ -1,4 +1,4 @@
-package cn.secretinstitute.secretseasons.CreativeModeTab;
+package cn.secretinstitute.secretseasons.creativemodetab;
 
 import cn.secretinstitute.secretseasons.Items.ModItems;
 import cn.secretinstitute.secretseasons.Utils;

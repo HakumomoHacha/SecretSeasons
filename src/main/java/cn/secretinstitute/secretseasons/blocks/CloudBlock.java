@@ -1,4 +1,4 @@
-package cn.secretinstitute.secretseasons.Blocks;
+package cn.secretinstitute.secretseasons.blocks;
 
 import net.minecraft.world.level.block.Block;
 

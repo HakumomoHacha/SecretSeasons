@@ -1,9 +1,7 @@
-package cn.secretinstitute.secretseasons.Datagen;
+package cn.secretinstitute.secretseasons.datagen;
 
-import cn.secretinstitute.secretseasons.Blocks.ModBlocks;
 import cn.secretinstitute.secretseasons.Utils;
 import net.minecraft.data.DataGenerator;
-import net.minecraft.world.level.block.RotatedPillarBlock;
 import net.minecraftforge.client.model.generators.BlockStateProvider;
 import net.minecraftforge.common.data.ExistingFileHelper;
 

@@ -1,7 +1,7 @@
 package cn.secretinstitute.secretseasons;
 
-import cn.secretinstitute.secretseasons.Blocks.ModBlocks;
-import cn.secretinstitute.secretseasons.CreativeModeTab.MainTab;
+import cn.secretinstitute.secretseasons.blocks.ModBlocks;
+import cn.secretinstitute.secretseasons.creativemodetab.MainTab;
 import cn.secretinstitute.secretseasons.Items.ModItems;
 import com.mojang.logging.LogUtils;
 import net.minecraft.world.level.block.Blocks;
